@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumeyye.
+- Hi 👋, I’m Sumeyye.
 
 - 🌱 I’m currently learning Flutter & Dart and Swift.
 
